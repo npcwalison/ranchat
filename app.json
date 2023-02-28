@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ranchat",
+    "slug": "ranchat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ranchat"
+}
